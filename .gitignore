@@ -2,3 +2,8 @@
 build/
 gradle.properties
 /.nb-gradle/
+/koodi/viikko1/RiippuvuuksienInjektointi1/.nb-gradle/
+/koodi/viikko2/RiippuvuuksienInjektointi2/.nb-gradle/
+/koodi/viikko2/RiippuvuuksienInjektointi3/.nb-gradle/
+/koodi/viikko2/Verkkokauppa1/.nb-gradle/
+/koodi/viikko1/NhlStatistics1/.nb-gradle/
